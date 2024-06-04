@@ -27,10 +27,13 @@ This Python-based bot, utilizing Pyrogram and Py-Tgcalls, enables effortless str
 ### Get Started
 Enhance your group chat experience with seamless music and video streaming.
  Visit the 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 # [𝘼𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 ](https://t.me/AI_ARMY) on Telegram today!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
