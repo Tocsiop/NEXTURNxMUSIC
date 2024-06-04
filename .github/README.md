@@ -1,7 +1,7 @@
 # 𝘼𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://telegra.ph/file/67a7078573dbf895ce7aa.jpg" align="middle" width="500" height="250"/>
+<img src="https://telegra.ph/file/36fbf4d7c2219234de2c5.jpg" align="middle" width="500" height="250"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,6 +9,8 @@
 This Python-based bot, utilizing Pyrogram and Py-Tgcalls, enables effortless streaming of songs, videos, and live streams directly into group calls from various sources.
 
 ### Key Features
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 1. **Source Variety:**
    - Stream content from YouTube, Soundcloud, Apple Music, Spotify, Resso, Live Streams, and Telegram Audios & Videos.
@@ -21,7 +23,7 @@ This Python-based bot, utilizing Pyrogram and Py-Tgcalls, enables effortless str
 
 4. **Multi-Language Support:**
    - Supports multiple languages, enhancing accessibility and user-friendliness for a diverse user base.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### Get Started
 Enhance your group chat experience with seamless music and video streaming.
  Visit the 
@@ -35,9 +37,6 @@ Enhance your group chat experience with seamless music and video streaming.
 
 ## Deploy On Heroku
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Tocsiop/NEXTURNxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
