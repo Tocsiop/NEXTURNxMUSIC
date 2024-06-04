@@ -1,22 +1,39 @@
-<h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
-</h2>
+# 𝘼𝙧𝙘𝙝 ✘ 𝙈𝙪𝙨𝙞𝙘 <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
-</p>
+<img src="https://telegra.ph/file/67a7078573dbf895ce7aa.jpg" align="middle" width="500" height="250"/>
 
-<p align="center">
-<a href="https://github.com/Tocsiop/NEXTURNxMUSIC/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Tocsiop/NEXTURNxMUSIC/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Tocsiop/NEXTURNxMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Tocsiop/NEXTURNxMUSIC/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
-</p>
+### Overview Section
+This Python-based bot, utilizing Pyrogram and Py-Tgcalls, enables effortless streaming of songs, videos, and live streams directly into group calls from various sources.
+
+### Key Features
+
+1. **Source Variety:**
+   - Stream content from YouTube, Soundcloud, Apple Music, Spotify, Resso, Live Streams, and Telegram Audios & Videos.
+
+2. **Stability and Reliability:**
+   - Developed from scratch to ensure stability and minimize crashes, featuring attractive thumbnails for a better user experience.
+
+3. **Advanced Controls:**
+   - Enjoy advanced controls such as Loop, Seek, Shuffle, Specific Skip, Playlists, and more for a customized listening experience.
+
+4. **Multi-Language Support:**
+   - Supports multiple languages, enhancing accessibility and user-friendliness for a diverse user base.
+
+### Get Started
+Enhance your group chat experience with seamless music and video streaming.
+ Visit the 
+# [𝘼𝙖𝙧𝙤𝙝𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘](https://t.me/AI_ARMY) on Telegram today!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+## Deploy On Heroku
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
@@ -24,48 +41,14 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Tocsiop/NEXTURNxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-</h3>
+## 🏷 Support Section
+**_[Updates](https://t.me/AI_ARMY)_**
 
-- Get your [Necessary Variables](https://github.com/Tocsiop/NEXTURNxMUSIC/blob/master/sample.env)
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install Ffmpeg by :
-`sudo apt-get install python3-pip ffmpeg -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-- Clone the repository by :
-`git clone https://github.com/Tocsiop/NEXTURNxMUSIC && cd AnonXMusic`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
-- Rename the env file by :
-`mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
-━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
+## **_Special thanks to_**
+**_[TeamYukki](https://github.com/TeamYukki)_** **_For Project Base_**
 
-<p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+**_[Py-tgcalls](https://github.com/pytgcalls)_** 
 
-<p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+**_[Pyrogram](https://github.com/pyrogram)_**
