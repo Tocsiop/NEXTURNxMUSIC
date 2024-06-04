@@ -1,4 +1,4 @@
-# 𝘼𝙧𝙘𝙝 ✘ 𝙈𝙪𝙨𝙞𝙘 <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
+# 𝘼𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://telegra.ph/file/67a7078573dbf895ce7aa.jpg" align="middle" width="500" height="250"/>
@@ -25,7 +25,7 @@ This Python-based bot, utilizing Pyrogram and Py-Tgcalls, enables effortless str
 ### Get Started
 Enhance your group chat experience with seamless music and video streaming.
  Visit the 
-# [𝘼𝙖𝙧𝙤𝙝𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘](https://t.me/AI_ARMY) on Telegram today!
+# [𝘼𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 ](https://t.me/AI_ARMY) on Telegram today!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
